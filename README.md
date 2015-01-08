@@ -38,6 +38,15 @@ HAM, or Hard As a Motherfucker, is a methodology for rapidly turning ideas into 
 3. Squad begins HAM Session
 4. Butcher Demos the Project
 
+##Demoing
+Demos are performed in public. The point of demos are to:
+
+* Promote the project
+* Provide a delieverable for the HAM Session
+* Share knowledge with others
+
+Demos are recorded and posted to wegoham.com.
+
 ##Ownership
 The Butcher begins with 100% stake in his Project. Upon the completion of a HAM Session, 20% of his stake is distributed evenly among the Squad.
 
