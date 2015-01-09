@@ -39,7 +39,7 @@ HAM, or Hard As a Motherfucker, is a methodology for rapidly turning ideas into 
 4. Butcher Demos the Project
 
 ##Demoing
-Demos are performed in public. The point of demos are to:
+Demos are performed in public. The point of demos is to:
 
 * Promote the project
 * Provide a delieverable for the HAM Session
